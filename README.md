@@ -1,0 +1,3 @@
+# Search for national parks
+
+I created this project for Thinkful.  The user can search for national parks in one or more states by entering state abbreviations (separated by commas) and a maximum number of search results.  It uses the National Park Service API.  Note: in index.js, the variable "apiKey" in the watchForm function is currently set to "INSERT API KEY HERE". To run the app, you just need to replace that text with your own NPS API key. 
